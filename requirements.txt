@@ -13,7 +13,7 @@ Pillow==6.2.1
 py4j==0.10.7
 pyparsing==2.4.5
 PySocks==1.7.1
-pyspark==2.4.4
+pyspark==3.2.2
 pyspark-stubs==2.4.0.post6
 python-dateutil==2.8.1
 pytz==2019.3
